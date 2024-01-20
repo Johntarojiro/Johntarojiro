@@ -1,0 +1,21 @@
+In English:
+
+~~~~~~
+#1 Language: English
+#2 Title: Decoding the Message
+#3 Goal: Summarize the essence of the message concisely
+#4 Procedure: Paste the message after the command for this request. It contains only keywords. The author of this message (let's call them "Tommy") understands the background of these keywords, but including everything would result in an extensive explanation, so only the keywords are listed. Therefore, first analyze and elucidate the background of these keywords, and decode what Tommy wants to convey to the reader from them. Then, decode the overall message that Tommy wants to communicate to the reader from the list of keywords.
+#5 Output: Please output the overall message that Tommy wants to communicate to the reader, decoded from the list of keywords. Afterwards, explain the meaning and background of each keyword.
+#6 Start: First, please request the submission of the message. Then, begin.
+~~~~~~
+
+In Japanese:
+
+~~~~~~
+#1　言語：日本語
+#2　タイトル：メッセージの解読
+#3　ゴール：メッセージの概要を簡潔にまとめること
+#4　作業手順：この依頼のコマンドの後にメッセージを貼り付けます。キーワードのみが記載されています。このメッセージの作者（仮に「トミー」とします）は、そのキーワードが持つ背景を理解していますが、すべてを記載すると膨大な解説になるため、キーワードしか記載していません。そのため、まず、そのキーワードが持つ背景を分析し、解明し、そのキーワードから読者に伝えたいことを解読してください。そして、キーワードの羅列から、読者に伝えたいメッセージの全体像を解読してください。
+#５　出力：キーワードの羅列から解読した作者から読者に伝えたいメッセージの全体像を出力してください。その後、各キーワードの持つ意味や背景を各キーワードについて解説してください。
+#6　スタート：　まず、メッセージの提出を求めてください。それでは、始めてください。
+~~~~~~
