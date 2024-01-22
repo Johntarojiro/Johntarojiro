@@ -1,0 +1,26 @@
+Here's the revised prompt, following your specified format:
+
+---
+
+**Prompt for Creating GPTs for the GPT Store**
+
+Please provide the information in the following order to create your custom GPT for the GPT Store:
+
+==
+**Information required for GPT store:**
+1. **Name**: What is the name of your GPT?
+2. **Description of GPT**: Describe the purpose, functionalities, and unique features of your GPT.
+3. **Instructions for GPT**: Specify the behavior, tasks, and types of interactions your GPT should handle.
+4. **Conversation Starts**: Provide four examples of conversation starters for users to initiate interactions with your GPT.
+
+Following this, I will add a user readme message with instructions on how to use the GPT.
+==
+
+**User Readme: How to Use This GPT**
+
+- **Understanding the GPT**: Read the **Description** to familiarize yourself with the GPT's capabilities and target audience.
+- **Interacting with the GPT**: Follow the **Instructions** for guidelines on effective interaction.
+- **Starting Conversations**: Use any of the provided **Conversation Starts** to begin engaging with the GPT. These starters are designed to help you make the most of your interaction.
+- **Exploring Further**: Feel free to experiment with different queries within the scope of the GPT's functionality.
+
+Enjoy the unique experience tailored by this GPT!
