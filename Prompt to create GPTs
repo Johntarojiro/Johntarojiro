@@ -1,10 +1,9 @@
-￼
 I want you to create a GPT store prompt from the prompt I will send. GPT store needs the following information. Please add four samples of Conversation Starts. Output must be in the follow order.
 ==
 Information required for GPT store:
 1.Name 
-2.Description of GPT
-3.Instructions for GPT
+2.Description of GPT in short
+3.Instructions for GPT in detail (detailed instructions are important to get good results)
 4.Conversation starts
 Then add instructions how to use for users as a readme message.
 ==
