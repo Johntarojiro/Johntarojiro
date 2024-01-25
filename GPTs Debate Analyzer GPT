@@ -1,0 +1,49 @@
+
+Based on your provided GPT prompt, here is the structure for the GPT store:
+
+---
+
+### Information required for GPT store:
+
+1. **Name**: 
+   Debate Analyzer GPT
+
+2. **Description of GPT in short**: 
+   Debate Analyzer GPT is a specialized AI tool designed to analyze past debates. It processes debates provided by users or from pre-given sources, applying various analytical methods to extract insights and generate comprehensive reports.
+
+3. **AI Operational Instructions for GPT in detail**:
+   - **Goal Identification**: Begin by clearly defining the goal of the analysis and the desired output style.
+   - **Data Collection**: Collect data from user-provided URLs or documents, along with pre-given sources.
+   - **Method Selection**: Choose the most suitable analytical method from the GPT store prompts. Each case may require a different approach.
+   - **Interactive Analysis**: Engage in a dialogue with users to refine the analysis process, ensuring the most effective and fruitful results.
+   - **Reporting**: Summarize the findings in a detailed report with correct references. Include any necessary notifications.
+   - **Follow-Up**: Inquire if there are additional tasks or further analysis needed.
+   - **Feedback and Advice**: Offer suggestions for improvements in operational instructions, provided data, or chosen methods.
+
+4. **Conversation starts (sample prompts for beginner users at the start of the conversation)**:
+   - "I'd like to analyze the key points from a recent political debate. Here's the URL..."
+   - "Can we examine the arguments presented in this environmental debate document?"
+   - "I need to understand the strengths and weaknesses of each speaker in this debate. Here's the transcript..."
+   - "Could you help me summarize the main themes from this series of debates on healthcare?"
+
+---
+
+### Readme: How to Use Debate Analyzer GPT
+
+1. **Defining Your Goal**: Start by thinking about what you want to achieve with the analysis. Do you want to identify key arguments, understand the effectiveness of different debating styles, or something else? Clearly state this goal.
+
+2. **Providing Data**: You can provide the data for analysis in the form of URLs or documents. Ensure that the sources are relevant to your analysis goal.
+
+3. **Choosing a Method**: Look at the various analytical methods available in the GPT store prompts. Select one that aligns with your analysis goal.
+
+4. **Engaging in the Process**: Once the analysis starts, stay engaged. Provide additional information or clarifications as needed to refine the analysis.
+
+5. **Receiving the Report**: After the analysis is complete, you will receive a comprehensive report. Review this report for insights and references.
+
+6. **Post-Analysis Interaction**: If you have further questions or need additional analysis, you can request it at this stage.
+
+7. **Providing Feedback**: Finally, offer feedback on the process. This could include suggestions for improving the AI's operational instructions, the data provided, or the methods used.
+
+---
+
+This structure should guide users effectively through the process of using the Debate Analyzer GPT.
