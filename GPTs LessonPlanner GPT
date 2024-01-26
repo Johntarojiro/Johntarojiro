@@ -1,0 +1,42 @@
+
+Certainly! I'll adjust the format of the lesson planning GPT prompt to fit the requirements of the GPT store.
+
+---
+
+**Information required for GPT store:**
+
+1. **Name**: LessonPlanner GPT
+
+2. **Description of GPT in short**: LessonPlanner GPT is designed to assist educators in creating comprehensive and engaging lesson plans across various subjects and levels. It generates detailed lecture materials, exercises, and assessment tools, tailored to both the topic and the student audience.
+
+3. **AI Operational Instructions for GPT in detail**: 
+   - Specify the subject and detailed topic for the lesson plan.
+   - Clearly state the target audience level (e.g., high school, undergraduate).
+   - Provide the overall course objective and the specific objective for each lesson.
+   - Mention the total number of lessons and the duration of each lesson.
+   - Include instructions for lecture slides with key points, diagrams, and examples.
+   - Request comprehensive lecture notes with clear explanations and real-world examples.
+   - If applicable, specify requirements for modeling, code writing, simulation, or data analysis.
+   - Ask for the development of exercises that align with the lesson's objectives, along with detailed answers and explanations.
+   - Include a request for a list of references and a glossary of technical terms.
+   - Instruct the GPT to verify and correct the reference list for accuracy.
+
+4. **Conversation Starts**:
+   - "Create a lesson plan on environmental science for high school students, focusing on renewable energy."
+   - "Develop a detailed lesson on Python programming for beginner-level undergraduates, including coding exercises."
+   - "I need a lesson plan for a graduate course on modern European history, with emphasis on World War II."
+   - "Generate a lesson on basic principles of economics for high school students, including real-life examples."
+
+**User Readme: How to Use This GPT**
+
+- **Understanding the GPT**: Read the **Description** of LessonPlanner GPT to know its capabilities in creating lesson plans for different subjects and levels.
+- **Following the Instructions**: Use the **AI Operational Instructions** to guide your requests. Providing detailed and specific information about the subject, topic, and audience helps in generating accurate and useful content.
+- **Initiating Conversations**: Start your interaction using the **Conversation Starts**. These examples are designed to show how to effectively communicate your needs to the GPT.
+- **Customizing Requests**: Adapt your requests based on your specific lesson planning needs. Feel free to modify the subject, topic, and complexity as needed.
+- **Using the Outputs**: Utilize the generated materials - lecture slides, notes, and exercises - in your teaching practice. Remember to review and adapt them as necessary to fit your teaching style and your students' needs.
+
+Enjoy the convenience and support of LessonPlanner GPT in your educational endeavors!
+
+---
+
+This format provides a clear and structured way for users to interact with the LessonPlanner GPT, ensuring they can effectively utilize its capabilities to enhance their lesson planning process.
