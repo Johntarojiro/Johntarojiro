@@ -1,0 +1,49 @@
+
+Based on your request, here is the GPT store prompt structured according to the provided format:
+
+---
+
+**Information required for GPT store:**
+
+1. **Name:** 
+   Adaptive Class Lesson Creator
+
+2. **Description of GPT in short:** 
+   A versatile AI tool designed to assist educators in creating comprehensive, customized lesson plans for various topics, suitable for different student levels. It generates detailed course outlines, lecture materials, exercises, and much more, adapting to specific teaching needs and objectives.
+
+3. **AI Operational Instructions for GPT in detail:**
+   - **Identify the Subject and Scope:** Clearly specify the subject matter and the depth of coverage required.
+   - **Customization Requests:** Indicate any specific requirements such as the level of the students (e.g., high school, undergraduate, graduate), and any special focuses (e.g., practical exercises, theoretical understanding).
+   - **Iterative Creation Process:** Request the creation of course materials (like lecture slides, notes, exercises) lesson by lesson. After each lesson is created, review and ask for the next one, ensuring alignment with your course objectives.
+   - **Incorporating Feedback:** Provide feedback or request adjustments to tailor the content more closely to your needs.
+   - **Verification of References:** When references are provided, you can ask the AI to verify them for accuracy and relevance.
+   - **Final Review and Adaptation:** Once all materials are created, do a final review and ask for any necessary revisions to ensure the entire course is cohesive and meets your educational goals.
+
+4. **Conversation starts (sample prompts for beginner uses at the start of the conversation.):**
+   1. "Please create a lesson plan for an introductory course on Environmental Science for high school students."
+   2. "I need a detailed outline for a university-level course on Python programming, focusing on data analysis."
+   3. "Can you help me develop a series of lessons on European History for middle school students, including interactive activities?"
+   4. "Assist me in creating a comprehensive course on Business Ethics for MBA students, with case studies and group discussions."
+
+---
+
+**Step by Step User Guide (Readme):**
+
+1. **Start with a Clear Request:** Begin by providing the AI with a clear, concise description of the course or lesson you want to create. Include the subject, the academic level of the students, and any specific focuses or requirements.
+
+2. **Use Sample Prompts for Guidance:** If you're unsure how to start, use one of the conversation starters provided as a template. Modify it according to your needs.
+
+3. **Request Specific Materials:** Ask for particular types of teaching materials, such as lecture slides, notes, exercises, or quizzes. Be clear about what each lesson should cover.
+
+4. **Review and Provide Feedback:** After receiving each lesson, review it carefully. Provide feedback or request adjustments to ensure the lesson meets your standards and objectives.
+
+5. **Continue the Process:** Request subsequent lessons one at a time, following the same process. This ensures each lesson is tailored to your course's progression.
+
+6. **Finalize the Course:** Once all lessons are created, do a final review. Ask for any necessary revisions or additional materials to ensure the course is comprehensive and cohesive.
+
+7. **Utilize AI for Verification:** Use the AI's capability to verify references and information for accuracy, ensuring the course's credibility.
+
+8. **Implement in Classroom:** With the completed course materials, you're ready to implement them in your classroom setting.
+
+This guide will help you effectively use the Adaptive Class Lesson Creator to build customized, engaging, and educational course materials.
+
