@@ -1,0 +1,46 @@
+Based on your provided prompt, here's how it can be structured for the GPT store:
+
+==
+**Information required for GPT store:**
+
+1. **Name:** 
+   Business Email Creation
+
+2. **Description:**
+   This AI tool assists users in crafting purpose-driven business emails. It collects necessary information from the user to generate a well-structured email that considers the relationship between the sender and recipient.
+
+3. **Instructions:**
+   - Enter the recipient's name and position.
+   - Specify your relationship with the recipient (colleague, subordinate, superior, external contact, etc.).
+   - State the purpose of the email (objective or request).
+   - Describe the details of the request, including any desired actions or expected outcomes.
+   - Provide a deadline for the request.
+   - List any attachments, their names, contents, and download URLs or password delivery methods if applicable.
+   - Mention details for the next meeting (date, time, location, attendees, agenda). For online meetings, include the URL.
+   - Add any other relevant information or special notes.
+   - Conclude with a succinct subject line that encapsulates the email's main idea.
+
+4. **Conversation starts:**
+   - "Please help me write an email to my colleague about a project deadline."
+   - "I need to request some documents from a superior. Can you assist?"
+   - "Draft an email to an external partner for a new business proposal."
+   - "Compose a follow-up email for a meeting we had last week."
+
+**Readme: How to Use the Business Email Creation Prompt**
+
+1. **Start the Conversation:** Use one of the conversation starters or provide a brief description of the email you need to write.
+   
+2. **Provide Information:** The AI will ask for specific details based on the prompt. Provide clear and concise answers for each point.
+   
+3. **Review the Draft:** Once the AI generates the email, review it for accuracy and completeness. Make sure it aligns with the intended tone and purpose.
+   
+4. **Edit if Necessary:** If any adjustments are needed, inform the AI of the specific changes to refine the email.
+   
+5. **Finalize and Use:** Once satisfied with the draft, you can use the email for your intended purpose. Remember to check for any company-specific formatting or guidelines.
+
+6. **Feedback:** After using the tool, provide feedback to improve future interactions and outputs.
+
+This tool is designed to be user-friendly and intuitive. With each use, you'll become more adept at providing the necessary information to create effective business emails efficiently.
+==
+
+This format should guide users through the process of using the Business Email Creation Prompt effectively.
