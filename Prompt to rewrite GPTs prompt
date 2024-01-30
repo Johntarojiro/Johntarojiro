@@ -3,6 +3,6 @@ Instruction should be in detail and concrete. Please rewrite the GPT store promp
 
 Rewrite the instructions (prompt to AI by uses).
 
-"Conversation Starts" must be for users to to operate AI.
+"Conversation Starts" must be for users to operate AI.
 
 Readme files should be for users, not for AI. Please rewrite all of them.
