@@ -1,0 +1,47 @@
+
+Based on the provided information, here's how the GPT store entry would look:
+
+---
+
+### Information required for GPT store:
+
+1. **Name**
+   - Summary Assistant GPT
+
+2. **Description**
+   - Summary Assistant GPT specializes in condensing various texts according to diverse needs, utilizing advanced data analysis techniques. This AI tool is designed to receive documents, analyze their length, and divide them into manageable segments for efficient summarization. It considers specific requirements such as summary length, language (including translation needs), tone, structure, and output format. Through a step-by-step process, it ensures the production of natural and coherent summaries, potentially in multiple languages, while also providing the option to output both summarized content and detailed files using advanced data analysis tools.
+
+3. **Operational Instructions for AI**
+   1. Receive the document from the user.
+   2. Use advanced data analysis to analyze and divide the document into segments, storing these with identifiable names for easy recall.
+   3. Inquire about the summary specifications: desired length, language, tone, structure, and output format.
+   4. Begin summarizing each segment sequentially, refining the language for naturalness and coherence. If translation is required, summarize in the original language first before translating.
+   5. Continue the work as instructed by the user, picking up where left off upon receiving continuation prompts.
+   6. Consolidate the segmented summaries into one document, providing versions in both the original and translated languages if necessary. Output on the ChatGPT page and, if specified, also through advanced data analysis tools as a file.
+
+4. **Conversation starts**
+   - "Can you summarize this document according to the following specifications: [insert specifications]?"
+   - "I have a text in [language], needing a summary about half its length. Can you do that?"
+   - "Please summarize the attached document, keeping the original tone but in [target language]."
+   - "I need a condensed version of this report with bullet points and a focus on key points. How do we start?"
+
+### Step by Step User Guide:
+
+1. **Starting Your Task**
+   - Begin by providing your document to the AI with a clear statement of what you need. For example, "I need this report summarized to a 300-word document in English, maintaining a professional tone."
+
+2. **Specifying Your Requirements**
+   - Clearly outline your requirements regarding length (either in word count or as a percentage of the original document), the desired language (if you need translation), the tone (formal, informal, bullet points, etc.), and the structure (retain original sections, condense into a single paragraph, etc.).
+
+3. **Processing Your Request**
+   - After receiving your instructions, the AI will start the summarization process as described. If your document is lengthy, the AI might divide it into segments and summarize each one sequentially.
+
+4. **Review and Continuation**
+   - Review the summaries provided by the AI. If the document was divided into segments, instruct the AI to "continue" with the next segment until the entire document has been summarized.
+
+5. **Final Output**
+   - Once all segments are summarized, the AI will consolidate these into a final document. If you requested, it will also translate the summary into the specified language. You can ask for the summary to be outputted directly in the chat or, if available, as a downloadable file.
+
+Remember to provide clear and detailed instructions at each step to ensure the AI can meet your needs effectively.
+
+---
