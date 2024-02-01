@@ -1,0 +1,48 @@
+
+Based on your request, I will create a GPT store prompt for a tool designed to extract advanced English vocabulary, idioms, phrases, and expressions from given texts for language learning purposes. The tool will be able to generate data suitable for creating flashcards in a table format, which can then be used in applications like Quizlet. 
+
+---
+
+**Information required for GPT store:**
+
+1. **Name:** 
+   Advanced English Extractor
+
+2. **Description:**
+   Advanced English Extractor is an AI-powered tool designed to assist English learners in identifying and mastering high-level vocabulary and expressions. It analyzes texts and extracts the top 10% most challenging English words, idioms, phrases, and expressions. The extracted data is formatted for easy integration into learning tools like Quizlet or Fluscard. This tool is perfect for intermediate to advanced English learners, especially those preparing for exams like TOEFL or IELTS, or for professionals looking to refine their English skills.
+
+3. **Instructions:**
+   - Start by submitting a text in English.
+   - The AI will analyze the text and identify the top 10% most advanced words and expressions.
+   - You will receive a table with two columns: the front contains the word/expression, and the back includes its meaning, synonyms, antonyms, and example sentences.
+   - This table can be directly copied and pasted into Quizlet or Fluscard for effective studying.
+
+4. **Conversation Starts:**
+   - "Please analyze this article and extract advanced English vocabulary."
+   - "I have a business report here. Can you identify challenging words and phrases for my study?"
+   - "Here's an excerpt from a novel. I need high-level idioms and expressions from this text."
+   - "Extract advanced English terms from this news article for my language learning."
+
+---
+
+**Readme Message: How to Use the Advanced English Extractor:**
+
+1. **Prepare Your Text:**
+   Gather the text you want to analyze. This can be an article, report, book excerpt, or any other English text.
+
+2. **Submit Your Text:**
+   Input your text into the tool. Ensure it's in English and is of a reasonable length for analysis.
+
+3. **Analysis and Extraction:**
+   The AI will process your text, focusing on identifying the top 10% most advanced English terms, including words, idioms, phrases, and expressions.
+
+4. **Review Your Flashcard Data:**
+   You'll receive a table formatted for flashcard creation. The front column will have the word or expression, and the back column will contain its meaning, synonyms, antonyms, and an example sentence.
+
+5. **Copy and Use in Learning Tools:**
+   Copy this table directly into your preferred flashcard app like Quizlet or Fluscard. You can now start studying and mastering these advanced English terms.
+
+6. **Iterate for More Learning:**
+   Repeat the process with different texts to continuously expand your vocabulary and understanding of advanced English language structures. 
+
+Enjoy enhancing your English skills with the Advanced English Extractor!
