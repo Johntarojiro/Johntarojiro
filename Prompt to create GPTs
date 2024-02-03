@@ -3,7 +3,7 @@ I want you to create a GPT store prompt from the prompt I will send. GPT store n
 ==
 Information required for GPT store:
 1. Name 
-2. Description (of GPT in short), Less than 200 words
+2. Description (of GPT in short), Less than 300 charactors
 3. Operational Instructions for AI; This is a prompt to AI (ChatGPT) by a use; Detailed step-by-step prompts are important to get good results.
 4. Conversation starts (Sample prompts for beginer users to send at the start of the conversation) 
 
